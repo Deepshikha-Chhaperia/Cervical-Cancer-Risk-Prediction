@@ -28,7 +28,7 @@ Ensure you have the following installed:
 - **Scikit-learn**: Version 1.2.2 or higher
 - **Imbalanced-learn**: Version 0.11.0 or higher
 
-## Setup
+## Setup and Installation
 
 1. **Clone the Repository**
 
@@ -37,9 +37,7 @@ Ensure you have the following installed:
    cd Cervical-Cancer-Risk-Prediction
     ```
 
-## Installation
-
-1. **Install Dependencies**
+2. **Install Dependencies**
 
    Use `pip` to install the required libraries:
 
@@ -47,9 +45,9 @@ Ensure you have the following installed:
    pip install pandas numpy plotly scikit-learn imbalanced-learn
    ```
 
-   ## Prepare the Data
+ 3. **Prepare the Data**
 
-   Place the `cervical_cancer.csv` file in the root directory of the repository.
+    Place the `cervical_cancer.csv` file in the root directory of the repository.
 
 ## Instructions to Run the Code
 
@@ -62,7 +60,7 @@ Ensure you have the following installed:
      ```
 
 
-   ## Execute the Cells
+2. **Execute the Cells**
 
    Run each cell sequentially in the notebook to perform data preprocessing, exploratory data analysis, and model building.
 
