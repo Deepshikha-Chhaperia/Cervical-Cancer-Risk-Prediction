@@ -49,7 +49,7 @@ Ensure you have the following installed:
 
    ## Prepare the Data
 
-Place the `cervical_cancer.csv` file in the root directory of the repository.
+   Place the `cervical_cancer.csv` file in the root directory of the repository.
 
 ## Instructions to Run the Code
 
@@ -64,7 +64,7 @@ Place the `cervical_cancer.csv` file in the root directory of the repository.
 
    ## Execute the Cells
 
-Run each cell sequentially in the notebook to perform data preprocessing, exploratory data analysis, and model building.
+   Run each cell sequentially in the notebook to perform data preprocessing, exploratory data analysis, and model building.
 
 ## Results
 
