@@ -28,7 +28,7 @@ Ensure you have the following installed:
 - **Scikit-learn**: Version 1.2.2 or higher
 - **Imbalanced-learn**: Version 0.11.0 or higher
 
-## Setup and Installation
+## Setup
 
 1. **Clone the Repository**
 
@@ -37,7 +37,7 @@ Ensure you have the following installed:
    cd Cervical-Cancer-Risk-Prediction
     ```
 
-## Setup and Installation
+## Installation
 
 1. **Install Dependencies**
 
